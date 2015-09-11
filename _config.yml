@@ -1,7 +1,7 @@
-title: Long Haul
+title: Just Codes
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: "http://localhost:4000"
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -19,9 +19,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: justcodes
+   email: emalherbi@gmail.com
+   #twitter: brianmaierjr
+   #facebook: brianmaierjr
 
 google_analytics: "UA-58263416-1"
