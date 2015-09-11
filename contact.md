@@ -7,7 +7,7 @@ title: Contato
   <h1 class="pageTitle">Contato</h1>
   <div class="contactContent">
     <p class="intro">Entre em contato. :)</p>
-    <p>E vamos bater um papo e discutir ideias.</p>
+    <p class="intro">Vamos bater um papo e discutir ideias.</p>
   </div>
   <form action="http://formspree.io/emalherbi@gmail.com" method="POST">
     <label for="name">Nome</label>
