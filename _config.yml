@@ -11,11 +11,11 @@ highlighter: pygments
 paginate: 5
 
 navigation:
- - title: Home
+ - title: Início
    url: /index.html
- - title: About
+ - title: Sobre
    url: /about
- - title: Contact
+ - title: Contato
    url: /contact
 
 social:
